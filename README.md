@@ -14,8 +14,8 @@ Vale ainda ressaltar que mesmo em cursos superiores da área de TI, o aprendizad
 Docentes:
 
 - Janderson Rodrigo de Oliveira (DAC/UFLA)
-- [Julio César Alves](https://github.com/orgs/ufla-ppoo/people/caburu) (DAC/UFLA)
-- [Paulo Afonso Parreira Júnior](https://github.com/orgs/ufla-ppoo/people/pauloafpjunior) (DCC/UFLA)
+- [Julio César Alves](https://github.com/caburu) (DAC/UFLA)
+- [Paulo Afonso Parreira Júnior](https://github.com/pauloafpjunior) (DCC/UFLA)
 
 Discentes:
 - Gabriel Dani de Azevedo
