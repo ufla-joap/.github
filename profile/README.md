@@ -18,6 +18,6 @@ Docentes:
 - [Paulo Afonso Parreira Júnior](https://github.com/pauloafpjunior) (DCC/UFLA)
 
 Discentes:
-- Gabriel Dani de Azevedo
+- [Gabriel Dani de Azevedo](https://github.com/GabrielDaniAz)
 - [Gustavo Gabriel Martins](https://github.com/gu12ga)
 
