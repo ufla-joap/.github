@@ -20,4 +20,6 @@ Docentes:
 Discentes:
 - [Gabriel Dani de Azevedo](https://github.com/GabrielDaniAz)
 - [Gustavo Gabriel Martins](https://github.com/gu12ga)
+- Joicy Paula dos Reis
+- [Luiz Filipe Bartelega Penha](https://github.com/luizfilipe-bp)
 
